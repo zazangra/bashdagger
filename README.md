@@ -13,8 +13,10 @@ The process is the simplest. Given some inputs, bashdagger will the print set of
  - You willl first be asked for each variable if it is an edgend. Type "y" if it is, "n" otherwise. If you tipe "y 3", then the node will have 3 edges 
    stemming from. If it has only 1, simply type "y".
  - Same procedure for endpoints. "n" will mean that the variable is exogenous. "y" that only one arrow points at it and "y n" that n arrows do.
+ - You will now be asked to wich is the endpoint for each edgend. Write one variable per time.
 3. Do do()
  - Here you can ask to do your intervention. Write the name of the variable you want to do() and then its new value. The output will be a brand new DAG.
+
  
  ## Implementations
   There are tons of it. Nevertheless, I think it does the job it is written for. Some usefull features may be:
