@@ -5,7 +5,7 @@ The present program is a work for uni. Its only purpose is to show that a certai
 
 ## How it works
 
-The process is the simplest. Given some inputs, bashdagger will the set of vertices, edges, atomic structural equations and values for a DAG. It will also do a basic intervention
+The process is the simplest. Given some inputs, bashdagger will the print set of vertices, edges, atomic structural equations and values for a DAG. It will also do a basic intervention
 
 1. Variable Input
  - Write all your variables names separed by space and press enter. Then write for each variable its value (either 1 or 0)
